@@ -3,6 +3,7 @@
 
 from InsertionSort import *     # Import InsertionSort.py, so we can call insertionSort()
 from MergeSort import *         # Import MergeSort.py, so we can call mergeSort()
+from SelectionSort import *     # Import SelectionSort.py, so we can call selectionSort()
 
 listLength = int(input("How long will the list be? "))  # Gather how long the list will be
 list1 = list()  # Creating the list

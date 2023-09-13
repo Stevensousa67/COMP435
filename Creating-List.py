@@ -14,7 +14,8 @@ for n in range(listLength):   # For loop to populate list
 
 print("\nList prior to sorting: ", list1)
 
-mergeSort(list1, 0, len(list1) - 1)
+#selectionSort()
+#mergeSort(list1, 0, len(list1) - 1)
 #insertionSort(list1)    # Call insortionSort()
 
 print("List post sort: ", list1)

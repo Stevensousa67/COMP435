@@ -16,3 +16,7 @@ Instructions: Run the program and follow the prompts. You will be asked to provi
 and then select which method you would like to use (Counting Sort or Bucket Sort) and the program will apply the correct
 sorting method to your sequence, displaying the sorted sequence at the end.
 """
+
+import SequenceGenerator
+
+SequenceGenerator

@@ -18,5 +18,4 @@ sorting method to your sequence, displaying the sorted sequence at the end.
 """
 
 import SequenceGenerator
-
 SequenceGenerator
